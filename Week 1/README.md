@@ -1,2 +1,2 @@
-# AAI614_-Stephan-
-My first Github Repo
+# AAI614_Stephan
+My first Github Repo!
